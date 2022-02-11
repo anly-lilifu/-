@@ -1,0 +1,4 @@
+pythonelloerror
+warnipythonngerror
+warning
+errorwapythonrning
